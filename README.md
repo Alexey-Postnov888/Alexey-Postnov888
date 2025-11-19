@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey-Postnov888&layout=compact&hide=css,dockerfile" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey-Postnov888&layout=compact&hide=css,dockerfile" />
