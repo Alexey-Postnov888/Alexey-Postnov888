@@ -67,4 +67,5 @@ Android-разработчик с практическим опытом созд
 - Спроектировал и разработал микросервисную систему информирования для факультета (Ktor, API Gateway, RabbitMQ, Keycloack)
 - Развернул серверную инфраструктуру на собственном сервере (Proxmox, Docker Compose, Nginx, мониторинг)
 
-> Расширенная версия резюме с детальным описанием full-stack проектов: [смотреть](https://disk.yandex.ru/d/-irwcdUqaX20MQ)
+> Расширенная версия резюме с детальным описанием full-stack проектов: [смотреть](https://github.com/Alexey-Postnov888/Alexey-Postnov888/blob/master/Full%20CV)
+
