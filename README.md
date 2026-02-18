@@ -40,9 +40,9 @@ Android-разработчик с практическим опытом созд
 
 #### Courses ([Courses](https://github.com/Alexey-Postnov888/EffectiveMobileCourses))
 
-Стек: Jetpack Compose, Clean Architecture (модульная), MVVM, Koin, Retrofit, Voyager
+Стек: Jetpack Compose, Clean Architecture (модульная), MVVM, Koin, Retrofit, Room, Voyager
 
-Спроектировал и внедрил модульную архитектуру (cores, features), что позволило ускорить сборку за счёт изоляции модулей, повысить переиспользуемость кода, масштабируемость. Разделение на слои по Clean Architecture упрощает поддержку и тестирование приложения
+Спроектировал и внедрил модульную архитектуру (cores, features), что позволило ускорить сборку за счёт изоляции модулей, повысить переиспользуемость кода, масштабируемость. Разделение на слои по Clean Architecture упрощает поддержку и тестирование приложения. Реализовал кэширование сетевых запросов для оффлайн-режима, улучшения пользовательского опыта
 
 #### ChordFlow ([ChordFlow](https://github.com/Alexey-Postnov888/ChordFlow))
 
@@ -68,6 +68,7 @@ Android-разработчик с практическим опытом созд
 - Развернул серверную инфраструктуру на собственном сервере (Proxmox, Docker Compose, Nginx, мониторинг)
 
 > Детальное описание Backend и DevOps проектов: [смотреть](https://github.com/Alexey-Postnov888/Alexey-Postnov888/blob/master/AddCV.md)
+
 
 
 
