@@ -8,8 +8,9 @@
 
 Контактные данные:
 
+- Телефон: +79514436543
 - Telegram: [@Alexey_Postnov888](https://t.me/alexey_postnov888) - предпочитаемый способ связи
-- Email: adpostnov@yandex.ru
+- GitHub: [Alexey-Postnov888](https://github.com/Alexey-Postnov888)
 
 ## Обо мне
 
@@ -78,4 +79,4 @@ Kotlin/Java разработчик с практическим опытом ра
 - Настраивал авторизацию сетевых запросов посредством кастомного интерсептера, реализовывал кэширование в Room для оффлайн-режима.
 - Использовал внедрение зависимостей (Dagger, Koin), работал с асинхронностью посредством Kotlin Coroutines и Flow.
 
-> Подробнее про Android-проекты: [смотреть](https://github.com/Alexey-Postnov888/Alexey-Postnov888)
+> Подробнее про Android-проекты: [смотреть](https://github.com/Alexey-Postnov888/Alexey-Postnov888/blob/master/README.md)
