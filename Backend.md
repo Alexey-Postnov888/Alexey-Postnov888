@@ -8,9 +8,8 @@
 
 Контактные данные:
 
-- Телефон: +79514436543
 - Telegram: [@Alexey_Postnov888](https://t.me/alexey_postnov888) - предпочитаемый способ связи
-- GitHub: [Alexey-Postnov888](https://github.com/Alexey-Postnov888)
+- Email: adpostnov@yandex.ru
 
 ## Обо мне
 
