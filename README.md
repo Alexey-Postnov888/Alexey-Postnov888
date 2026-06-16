@@ -64,6 +64,7 @@ Android-разработчик с практическим опытом созд
 
 ### Full-stack
 
+- Спроектировал и разработал распределённую систему для работы с заметками (Ktor, Qdrant, Elasticsearch, WebSockets, Redis, Keycloak)
 - Спроектировал и разработал микросервисную систему информирования для факультета (Ktor, API Gateway, RabbitMQ, Keycloack)
 - Развернул серверную инфраструктуру на собственном сервере (Proxmox, Docker Compose, Nginx, мониторинг)
 
