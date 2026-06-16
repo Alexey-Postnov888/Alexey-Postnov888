@@ -26,8 +26,8 @@ Kotlin/Java разработчик с практическим опытом ра
 ## Технические навыки
 
 - Языки: Kotlin, Java
-- Архитектура и DI: Clean Architecture, MVC, Dagger, Koin, Coroutines/Flow
-- Сеть: Retrofit, Kotlin/GSON Serialization, REST API
+- Архитектура и DI: Clean Architecture, MVC, Koin, Dagger, Coroutines/Flow
+- Сеть: Retrofit, Kotlin/GSON Serialization, REST API, gRPC
 - Backend: Ktor, Spring, RabbitMQ, JWT, Keycloak
 - Базы данных: SQL, PostgreSQL, pgvector, MySQL, ORM, SQLite
 - Инфраструктура и DevOps: Docker, Docker Compose, Nginx, Proxmox VE, Grafana, Prometheus
@@ -38,7 +38,26 @@ Kotlin/Java разработчик с практическим опытом ра
 
 ### Backend
 
-#### Система информирования студентов (сентябрь 2025 - сейчас)
+#### [Sage Notes](https://github.com/Alexey-Postnov888/SageNotes) (май - июнь 2026)
+
+> Sage Notes - распределённая система для работы с заметками. Она позволяет искать заметки по смыслу и ключевым словам, производить суммаризацию содержимого, извлекать текст с изображений. Система решает проблему хаотичного хранения информации.
+
+Роль в команде: техлид, архитектор, бэкенд-разработчик.
+
+Команда состоит из 4 бэкенд-разработчиков.
+
+Стек: Ktor (Kotlin), Spring (Java), FastAPI (Python). Clean Architecture, PostgreSQL, Qdrant, Elasticsearch, S3 (SeaweedFS), Keycloak, Redis, RabbitMQ, REST, gRPC, WebSockets, Prometheus, Temporal.io (Saga)
+
+##### Мой вклад в проект:
+
+- Спроектировал микросервисную архитектуру системы, определил домены ответсвенности сервисов, способы их взаимодействия (REST и gRPC - синхронное, RabbitMQ - асинхронное).
+- Разработал сервис авторизации на Ktor, интегрированный с Keycloak.
+- Разработал сервис поиска на Ktor с реализацией гибридного поиска: полнотекстовый через Elasticsearch и сематический через Qdrant, кэширование реализованно через Redis.
+- Разработал сервис индексации на Ktor, который делит текст на чанки, сохраняет векторное представление в Qdrant, а полнотекстовое - в Elasticsearch.
+- Разработал сервис уведомлений на Ktor, обрабатывающий асинхронные из RabbitMQ и синхронные REST/gRPC запросы от микросервисов и администраторов, доставляющий уведомления клиентам через WebSocket. Для хранения непрочитанных уведомлений используется MongoDB.
+- Разработал сервис для генерации эмбеддингов на FastAPI.
+
+#### Система информирования студентов (сентябрь 2025 - май 2026)
 
 > Участвую в командной разработке по Scrum (Agile) удобной и централизованной системы для взаимодействия между учебной частью и студентами.
 
