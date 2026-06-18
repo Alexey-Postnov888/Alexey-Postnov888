@@ -35,8 +35,8 @@ Kotlin/Java разработчик с практическим опытом ра
 - Языки: Kotlin, Java
 - Архитектура и DI: Clean Architecture, MVC, Koin, Dagger, Coroutines/Flow
 - Сеть: Retrofit, Kotlin/GSON Serialization, REST API, gRPC
-- Backend: Ktor, Spring, RabbitMQ, JWT, Keycloak
-- Базы данных: SQL, PostgreSQL, pgvector, MySQL, ORM, SQLite
+- Backend: Ktor, Spring, RabbitMQ, JWT, Keycloak, Redis
+- Базы данных: SQL, PostgreSQL, MongoDB, Elasticsearch, Qdrant, pgvector, MySQL, ORM, SQLite
 - Инфраструктура и DevOps: Docker, Docker Compose, Nginx, Proxmox VE, Grafana, Prometheus
 - Android: Jetpack Compose, XML, Android SDK, MVVM, Room, модульная архитектура, Material Design 3
 - Инструменты: Git, Figma
