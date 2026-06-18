@@ -1,4 +1,4 @@
-# Kotlin/Java-разработчик
+# Kotlin/Java Developer
 
 ФИО: Постнов Алексей Дмитриевич
 
