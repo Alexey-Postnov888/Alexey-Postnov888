@@ -97,7 +97,7 @@ Kotlin/Java разработчик с практическим опытом ра
 
 Команда состоит из 3 бэкенд-разработчиков и 1 разработчика текущего клиента системы.
 
-Стек: Ktor, PostgreSQL, Docker Compose, Keycloak, RabbitMQ, Clean Architecture, ClickHouse
+Стек: Ktor, PostgreSQL, ClickHouse, Docker Compose, Keycloak, RabbitMQ, Clean Architecture, Prometheus, Loki, Grafana
 
 Мой вклад:
 
