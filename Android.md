@@ -98,6 +98,8 @@ Android-разработчик на Kotlin с практическим опыт�
 
 > AI-ассистент на базе RAG для портала документации Astra Automation
 
+Мой вклад:
+
 Участвовал в проектировании backend-архитектуры приложения и разработке backend-компонентов на Python с использованием Clean Architecture. Настроил контейнеризацию и запуск сервисов через Docker Compose, а также мониторинг инфраструктуры и сервисов с использованием cAdvisor, Prometheus и Grafana.
 
 > Детальное описание Backend и DevOps проектов: [смотреть](https://github.com/Alexey-Postnov888/Alexey-Postnov888/blob/master/README.md)
