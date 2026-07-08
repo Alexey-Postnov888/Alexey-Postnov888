@@ -45,7 +45,9 @@ Android-разработчик на Kotlin с практическим опыт�
 
 ### Опыт работы
 
-#### The Red One (март - май 2026) - Kotlin Developer
+#### The Red One (март - май 2026)
+
+Роль: Kotlin Developer
 
 Мой вклад:
 
