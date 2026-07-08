@@ -68,7 +68,7 @@ Kotlin/Java разработчик с практическим опытом ра
 
 Стек: Ktor (Kotlin), Spring (Java), FastAPI (Python). Clean Architecture, PostgreSQL, Qdrant, Elasticsearch, S3 (SeaweedFS), Keycloak, Redis, RabbitMQ, REST, gRPC, WebSockets, Prometheus, Temporal.io (Saga)
 
-##### Мой вклад:
+Мой вклад:
 
 - Спроектировал микросервисную архитектуру системы, определил домены ответственности сервисов, способы их взаимодействия (REST и gRPC - синхронное, RabbitMQ - асинхронное).
 - Разработал сервис авторизации на Ktor, интегрированный с Keycloak.
@@ -81,7 +81,7 @@ Kotlin/Java разработчик с практическим опытом ра
 
 > AI-ассистент для портала документации Astra Automation
 
-##### Мой вклад:
+Мой вклад:
 
 - Спроектировал архитектуру backend-части приложения с использованием Clean Architecture.
 - Разработал backend-компоненты ИИ-ассистента на Python.
@@ -99,7 +99,7 @@ Kotlin/Java разработчик с практическим опытом ра
 
 Стек: Ktor, PostgreSQL, Docker Compose, Keycloak, RabbitMQ, Clean Architecture, ClickHouse
 
-##### Мой вклад:
+Мой вклад:
 
 - Спроектировал архитектуру всего проекта: какие микросервисы, как они взаимодействуют между собой, как клиенты взаимодействуют с бэкендом, общение через единую точку входа - API Gateway, RabbitMQ, Docker оркестрация всей системы, БД.
 - Разработал микросервис авторизации на Ktor с выдачей JWT Access/Refresh токенов и ролевой моделью доступа (студент, студсовет, методист, деканат и тп), интеграция с Keycloak.
