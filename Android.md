@@ -38,7 +38,7 @@ Android-разработчик на Kotlin с практическим опыт�
 - Сеть: Retrofit, Kotlin/GSON Serialization, REST API
 - Backend: Ktor, Spring, RabbitMQ, JWT, Keycloak
 - Базы данных: SQL, Room, PostgreSQL, pgvector, MySQL, ORM, SQLite
-- Инфраструктура и DevOps: Docker, Docker Compose, Nginx, Proxmox VE, Grafana, Prometheus
+- Инфраструктура и DevOps: Docker, Docker Compose, Nginx, Proxmox VE, Grafana, Prometheus, Loki
 - Инструменты: Git, Figma
 
 ## Опыт работы
