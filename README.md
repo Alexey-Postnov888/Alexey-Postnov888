@@ -37,7 +37,7 @@ Kotlin/Java разработчик с практическим опытом ра
 - Сеть: Retrofit, Kotlin/GSON Serialization, REST API, gRPC
 - Backend: Ktor, Spring, RabbitMQ, JWT, Keycloak, Redis
 - Базы данных: SQL, PostgreSQL, MongoDB, Elasticsearch, Qdrant, ClickHouse, pgvector, MySQL, ORM, SQLite
-- Инфраструктура и DevOps: Docker, Docker Compose, Nginx, Proxmox VE, Grafana, Prometheus
+- Инфраструктура и DevOps: Docker, Docker Compose, Nginx, Proxmox VE, Grafana, Prometheus, Loki
 - Android: Jetpack Compose, XML, Android SDK, MVVM, Room, модульная архитектура, Material Design 3
 - Инструменты: Git, Figma
 
@@ -76,6 +76,7 @@ Kotlin/Java разработчик с практическим опытом ра
 - Разработал сервис индексации на Ktor, который делит текст на чанки, сохраняет векторное представление в Qdrant, а полнотекстовое - в Elasticsearch.
 - Разработал сервис уведомлений на Ktor, обрабатывающий асинхронные из RabbitMQ и синхронные REST/gRPC запросы от микросервисов и администраторов, доставляющий уведомления клиентам через WebSocket. Для хранения непрочитанных уведомлений используется MongoDB.
 - Разработал сервис для генерации эмбеддингов на FastAPI.
+- Настроил мониторинг сервисов через Prometheus: добавил сбор технических метрик приложения и подготовил основу для контроля состояния сервисов.
 
 #### AI-ассистент в рамках Астра-стипендии (декабрь 2025 - май 2026)
 
@@ -108,6 +109,7 @@ Kotlin/Java разработчик с практическим опытом ра
 - Внедрил RabbitMQ для асинхронного взаимодействия сервисов, а также Clean Architecture и Koin в микросервисы.
 - Настроил взаимодействие между всеми микросервисами и клиентами (Telegram бот и веб).
 - Разработал сервис аналитики, который принимает события из RabbitMQ, сохраняет их в ClickHouse, далее эти данные визуализируются в Grafana.
+- Настроил систему мониторинга сервисов: реализовал сбор метрик через Prometheus и визуализацию в Grafana. Добавил отслеживание технических показателей (latency, error rate, RPS, состояние сервисов) и продуктовых метрик (DAU, WAU, MAU, количество пользователей).
 
 ### DevOps
 
