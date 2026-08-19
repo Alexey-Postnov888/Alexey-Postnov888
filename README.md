@@ -43,6 +43,10 @@ Kotlin/Java разработчик с практическим опытом ра
 
 ## Опыт работы
 
+### [Т1 Иннотех](https://t1.ru/about/units/t1-innotech) (август 2026 - сейчас)
+
+Роль: Java Developer
+
 ### [The Red One](https://redone.app) (март - май 2026)
 
 Роль: Kotlin Developer
