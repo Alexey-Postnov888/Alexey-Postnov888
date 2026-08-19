@@ -45,6 +45,8 @@ Kotlin/Java разработчик с практическим опытом ра
 
 ### [Т1 Иннотех](https://t1.ru/about/units/t1-innotech) (август 2026 - сейчас)
 
+> FinTech
+
 Роль: Java Developer
 
 ### [The Red One](https://redone.app) (март - май 2026)
