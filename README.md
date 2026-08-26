@@ -47,7 +47,7 @@ Kotlin/Java разработчик с практическим опытом ра
 
 > Сфера: FinTech
 
-Роль: Java Developer
+Роль: Kotlin/Java Developer
 
 ### [The Red One](https://redone.app) (март - май 2026)
 
